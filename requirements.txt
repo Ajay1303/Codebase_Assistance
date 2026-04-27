@@ -7,7 +7,7 @@ langchain-community==0.2.6
 langchain-huggingface==0.0.3
 langchain-groq==0.1.6
 sentence-transformers==3.0.0
-faiss-cpu==1.8.0
+faiss-cpu==1.13.2
 pydantic==2.7.4
 tiktoken==0.7.0
 streamlit==1.35.0
